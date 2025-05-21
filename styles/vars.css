@@ -1,0 +1,29 @@
+:root{
+    --ciano-primario: #22D4FD;
+    --preto-primario: #000000;
+    --branco-primario: #F6F6F6;
+    --cinza-primario: #272727;
+    --fonte-principal: 'Krona One', sans-serif;
+    --fonte-secundaria: 'Montserrat', sans-serif;
+}
+
+/*.container__cabecalho {
+    display: flex;
+    justify-content: space-between;
+    margin: 10% 9%;  
+}
+
+.container__navegacao__link {
+    text-decoration: none;
+    color: var(--ciano-primario);
+    font-family: var(--fonte-secundaria);
+    font-weight: 600;
+    font-size: 24px;
+    background-color: transparent;
+    width: 136px;
+    text-align: center;
+    height: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}*/
